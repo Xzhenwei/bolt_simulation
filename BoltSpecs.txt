@@ -1,0 +1,6 @@
+hdia 10[mm] "Head diameter"
+hthic 6[mm] "Head thickness"
+ndia 6[mm] "Nominal diameter"
+sdia 5[mm] "Stress diameter"
+blen 40[mm] "Bolt length"
+tlen 24[mm] "Thread length"
